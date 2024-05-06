@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.3.3"
+    "files": [
+    "./*.{html,htm,css,js,php}"
+  ]
   }
 }
